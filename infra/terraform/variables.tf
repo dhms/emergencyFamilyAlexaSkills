@@ -42,5 +42,5 @@ variable "runtime_lambda" {
 variable "sns_topic_arn" {
   description = "ARN do tópico SNS"
   type = string
-  default = "arn:aws:sns:us-east-1:381492262728:EmergencyTopic"
+  default = "SUA ARN AQUI"
 }
