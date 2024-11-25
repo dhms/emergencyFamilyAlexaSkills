@@ -24,7 +24,7 @@ variable "function_name" {
 variable "role_function" {
   description = "Role da lambda"
   type = string
-  default = "arn:aws:iam::381492262728:role/service-role/EmergencyFamily-role-9gmtkzw1"
+  default = "SUA ROLE AQUI"
 }
 
 variable "function_handler" {
